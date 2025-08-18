@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dessyd
-- 👀 I’m interested in Python, Arduino's
-- 🌱 I’m currently learning APIs coding
+- 👀 I’m interested in Minecraft, Python, Arduino's
+- 🌱 I’m currently learning MCP coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
