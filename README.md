@@ -1,6 +1,6 @@
 # Hi, I'm Dominique 👋
 
-Engineer based in Brussels. I build with Python, Arduino and AI agents, and I explore Splunk and the Model Context Protocol (MCP).
+Engineer based in Brussels. I build with Python, Arduino and AI agents.
 
 ## What I'm working on
 
@@ -10,7 +10,7 @@ Engineer based in Brussels. I build with Python, Arduino and AI agents, and I ex
 
 ## Tools I use
 
-Python · Bash · Docker · Arduino (C/C++) · Splunk · Claude Code
+Python · Bash · Docker · Arduino (C/C++) · Claude Code
 
 ## Also
 
